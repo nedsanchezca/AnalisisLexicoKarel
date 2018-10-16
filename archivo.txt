@@ -1,0 +1,6 @@
+iniciar-programa
+inicia-ejecucion
+avanza;
+avanza;
+termina-ejecucion
+finalizar-programa
